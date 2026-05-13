@@ -1,0 +1,9 @@
+# RAR Error Analysis
+central = 0.477122
+theory = 0.480453
+boot_mean = 0.481988
+boot_std = 0.026615
+mc_mean = 0.494524
+mc_std = 0.024612
+combined_std = 0.036250
+sigma_deviation = 0.09
